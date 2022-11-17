@@ -2,7 +2,7 @@
 
 Overview of Project: 
 
-The purpose of this project was to This was done by refractor two years of stock data.  
+The purpose of this project was to This was done by refractor two years of stock data in order to make the code run more efficently.  
 
 Summary: 
 What are the advantages or disadvantages of refactoring code?
